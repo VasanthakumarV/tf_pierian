@@ -10,6 +10,8 @@ tensorflow = "*"
 jupyter = "*"
 tornado = "==5.1.1"
 matplotlib = "*"
+pandas = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.6"
