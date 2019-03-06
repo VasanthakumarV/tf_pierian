@@ -9,6 +9,7 @@ verify_ssl = true
 tensorflow = "*"
 jupyter = "*"
 tornado = "==5.1.1"
+matplotlib = "*"
 
 [requires]
 python_version = "3.6"
